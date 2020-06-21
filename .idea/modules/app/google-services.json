@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1086267075824",
+    "firebase_url": "https://employee-hazards.firebaseio.com",
+    "project_id": "employee-hazards",
+    "storage_bucket": "employee-hazards.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086267075824:android:e7f94da882f880cde8a635",
+        "android_client_info": {
+          "package_name": "com.example.employeehazards"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086267075824-eaho5itcs4r58r1029qjs7sosnc3m8fr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.employeehazards",
+            "certificate_hash": "344ce3ca10e34086592b739215d8298601bfebaf"
+          }
+        },
+        {
+          "client_id": "1086267075824-btavll4kjj3nfo5id67nbkpkr6isbilh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqZpBQHBW13vvYbpjmSdVsClgWunIQqpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086267075824-btavll4kjj3nfo5id67nbkpkr6isbilh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
